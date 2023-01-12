@@ -1,0 +1,36 @@
+
+        Host Key : .facebook.com
+        Cookie Name : datr
+        Path: /
+        Cookie: 1ietY4HUl8uV_xvJJamv3nXA
+        Expires On: 13351325913735675
+        
+        
+        Host Key : .facebook.com
+        Cookie Name : fr
+        Path: /
+        Cookie: 0MPWVDzaTDSVdNEek..BjrSuX.7A.AAA.0.0.BjrSul.AWVfWNhUZpw
+        Expires On: 13324542885918624
+        
+        
+        Host Key : .facebook.com
+        Cookie Name : sb
+        Path: /
+        Cookie: lyutY4H9iYqkAuT7gtALxphA
+        Expires On: 13351326873307841
+        
+        
+        Host Key : .facebook.com
+        Cookie Name : wd
+        Path: /
+        Cookie: 1536x714
+        Expires On: 13317375612000000
+        
+        
+        Host Key : .facebook.com
+        Cookie Name : dpr
+        Path: /
+        Cookie: 1.25
+        Expires On: 13317375741000000
+        
+        
